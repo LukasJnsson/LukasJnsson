@@ -1,10 +1,13 @@
 <h1 align="center" style="font-family: "Brush Script MT" ">Lukas Jönsson</h1>
 
+<div align="center">
+
 ***`Full Stack Developer | Front End Developer`***
 
 Main focus and passion for full stack development, currently exploring the MERN Stack
 #
 </br>
+
 
 ***`Skills`***
 
@@ -22,6 +25,8 @@ Main focus and passion for full stack development, currently exploring the MERN 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <br/>
+          
+</div>
 
 #
 
