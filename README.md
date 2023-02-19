@@ -1,6 +1,4 @@
-<h1 align="center" style="font-family: "Brush Script MT" ">Lukas Jönsson</h1>
-
-<div align="center">
+# Lukas Jönsson
 
 ***`Full Stack Developer | Front End Developer`***
 
@@ -10,7 +8,6 @@ Main focus and passion for full stack development, currently exploring the MERN 
 
 
 ***`Skills`***
-
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -24,9 +21,8 @@ Main focus and passion for full stack development, currently exploring the MERN 
 <img align="left" alt="Electron" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
 <br/>
-          
-</div>
 
 #
 
