@@ -1,4 +1,4 @@
-# Lukas Jönsson
+<h1 align="center" style="font-family: "Brush Script MT" ">Lukas Jönsson</h1>
 
 ***`Full Stack Developer | Front End Developer`***
 
