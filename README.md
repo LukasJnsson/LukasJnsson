@@ -21,6 +21,7 @@ Main focus and passion for full stack development, currently exploring the MERN 
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <br/>
+
 #
 
 ![img](https://github.com/LukasJnsson/LukasJnsson/blob/404c1769848fa493567b04926d8e6c839f827b85/assets/stanley.jpg)
