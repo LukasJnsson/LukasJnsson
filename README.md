@@ -25,5 +25,7 @@ Main focus and passion for full stack development, currently exploring the MERN 
 
 #
 
+<br/>
+
 ![img](https://github.com/LukasJnsson/LukasJnsson/blob/404c1769848fa493567b04926d8e6c839f827b85/assets/stanley.jpg)
           
