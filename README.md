@@ -1,9 +1,6 @@
 <div align="center">
 
 ***`Full Stack Developer`***
-
-Main focus and passion for Full Stack Development, currently exploring the MERN stack
-#
 </br>
 
 
